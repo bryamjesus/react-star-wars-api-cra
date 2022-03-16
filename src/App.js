@@ -54,7 +54,6 @@ function App() {
     setPage(page + next)
   }
 
-
   return (
     <>
       <div>
